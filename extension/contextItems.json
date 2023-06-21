@@ -3,12 +3,10 @@
     "id": "search-with-epey",
     "title" : "Epey'de Ara",
     "type" : "normal",
-    "contexts" : ["selection"]
   },
   {
     "id": "search-with-bokyeme",
     "title" : "BokYeme'de Ara",
     "type" : "normal",
-    "contexts" : ["selection"]
-  },
+  }
 ]
