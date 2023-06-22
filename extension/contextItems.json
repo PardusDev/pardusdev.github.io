@@ -4,13 +4,17 @@
     "title" : "Epey'de Ara",
     "type" : "normal",
     "contexts" : ["selection"],
-    "websiteAddress" : "epey.com"
+    "customData" : {
+      "websiteAddress": "bokyeme.com"
+    }
   },
   {
     "id": "search-with-bokyeme",
     "title" : "BokYeme'de Ara",
     "type" : "normal",
     "contexts" : ["selection"],
-    "websiteAddress" : "bokyeme.com"
+    "customData" : {
+      "websiteAddress": "bokyeme.com"
+    }
   }
 ]
