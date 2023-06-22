@@ -22,7 +22,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
 .maintenance-box > h1, p {
     color: #fff;
-    font-family: Arial;
+    font-family: Arial, sans-serif;
     text-align: center;
     text-shadow: var(--textShadow);
 }
