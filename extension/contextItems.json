@@ -12,5 +12,12 @@
     "type" : "normal",
     "contexts" : ["selection"],
     "websiteAddress" : "bokyeme.com"
+  },
+  {
+    "id": "search-with-github",
+    "title" : "Github'da Ara",
+    "type" : "normal",
+    "contexts" : ["selection"],
+    "websiteAddress" : "github.com"
   }
 ]
